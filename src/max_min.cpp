@@ -32,7 +32,7 @@ int main(){
             }
         } else{
             max = C;
-            min = B;
+            min = A;
         }
 
     }
